@@ -1,12 +1,5 @@
 # Docker Images Pusher
 
-使用Github Action将DockerHub镜像转存到阿里云私有仓库，供国内服务器使用，免费易用
-
-视频教程：https://www.bilibili.com/video/BV1Zn4y19743/
-
-作者：**技术爬爬虾**<br>
-B站，抖音，Youtube全网同名，转载请注明作者<br>
-
 ## 使用方式
 
 
@@ -48,5 +41,5 @@ Fork本项目<br>
 docker pull registry.cn-hangzhou.aliyuncs.com/shrimp-images/alpine
 ```
 registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
-shrimp-images 即 ALIYUN_NAME_SPACE<br>
-alpine 即images.txt里面填的镜像<br>
+docker-ilisuo 即 ALIYUN_NAME_SPACE<br>
+bark-server  即images.txt里面填的镜像<br>
