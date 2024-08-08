@@ -1,1 +1,1 @@
-handsfree/certd
+bitnami/cert-manager
