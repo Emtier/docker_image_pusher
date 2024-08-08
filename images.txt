@@ -1,1 +1,1 @@
-cloudreve/cloudreve
+mouday/domain-admin
