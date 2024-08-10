@@ -38,7 +38,7 @@ Fork本项目<br>
 
 在国内服务器pull镜像：<br>
 ```
-docker pull registry.cn-hangzhou.aliyuncs.com/docker-ilisuo/bark-server
+docker pull registry.cn-hangzhou.aliyuncs.com/ilisuo/
 ```
 registry.cn-hangzhou.aliyuncs.com 即 ALIYUN_REGISTRY<br>
 docker-ilisuo 即 ALIYUN_NAME_SPACE<br>
